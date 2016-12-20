@@ -9,10 +9,10 @@ Code and ideas around decentralization, cryptography, and the blockchain from [@
 AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
 
 [AuctionHouse Web App](http://auctionhouse.dappbench.com)
-[Code](http://github.com/dob/auctionhouse)
-[More about AuctionHouse](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469#.jvaeggujz)
 
-![AuctionHouse](https://d17oy1vhnax1f7.cloudfront.net/items/2h1S1v3p2z2t1b321h3q/Image%202016-12-20%20at%2010.52.07%20AM.png?v=3c598512 =400x)
+[Code](http://github.com/dob/auctionhouse)
+
+[More about AuctionHouse](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469#.jvaeggujz)
 
 ---
 
@@ -25,8 +25,6 @@ TAP verifies smart contract code against what's on the blockchain, stores metada
 [TAP Homepage](http://tap.dappbench.com)
 [Code](http://github.com/dob/tap)
 [More on why TAP needs to exist](https://medium.com/@petkanics/lets-talk-about-ethereum-transaction-transparency-a5a0d38ec1b5#.qql6qexjy)
-
-![TAP](https://d17oy1vhnax1f7.cloudfront.net/items/16442a1b3V3I2Z3A3u2i/Image%202016-12-20%20at%2010.54.30%20AM.png?v=1bd2af15 =400x)
 
 ---
 
@@ -42,7 +40,28 @@ Browser-SOLC is a utility that lets you compile solidity code from within the we
 
 Posts, thoughts, and comments about decentralization and blockchain technology.
 
-* [Introducing AuctionHouse: An Ethereum Dapp For Auctioning On-Chain Goods](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469) - 11/2016
-* [The ZCash Ramp and Developer Opportunity](https://medium.com/@petkanics/the-zcash-ramp-and-developer-opportunity-1ce5c1ede022) - 10/2016
+[Economics-in-a-box For Decentralized Protocols](https://medium.com/@petkanics/economics-in-a-box-for-decentralized-protocols-56fb6d52a464) - 12/2016
+
+[Let's Talk About Ethereum Transaction Transparency](https://medium.com/@petkanics/lets-talk-about-ethereum-transaction-transparency-a5a0d38ec1b5) - 12/2016
+
+[Things to Like About Steem as a Blockchain Project](https://medium.com/@petkanics/things-to-like-about-steem-as-a-blockchain-project-3b670a135de2) - 11/2016
+
+[The Benefits of Decentraliziation](https://medium.com/@petkanics/the-benefits-of-decentralization-88a0b5d0fd39) - 11/2016
+
+[Tips For a New Ethereum DApp Developer](https://medium.com/@petkanics/tips-for-a-new-ethereum-dapp-developer-bb451bde8625) - 11/2016
+
+[An Ethereum DApp Case Study](https://medium.com/@ericxtang/an-ethereum-dapp-case-study-f4dd7c1cbe7a#.odheea7jn) - 11/2016
+
+[Introducing AuctionHouse: An Ethereum Dapp For Auctioning On-Chain Goods](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469) - 11/2016
+
+[Case for SectorCoins](https://medium.com/@ericxtang/case-for-sectorcoins-b70a7c820c2d#.u2tyn0kk2) - 10/2016
+
+[The ZCash Ramp and Developer Opportunity](https://medium.com/@petkanics/the-zcash-ramp-and-developer-opportunity-1ce5c1ede022) - 10/2016
+
+[How a 3rd Party Credit DAO Could Help Dapp Developers Overcome the Crypto Cold Start Problem](https://steemit.com/crypto/@dob/how-a-3rd-party-credit-dao-could-help-dapp-developers-overcome-the-crypto-cold-start-problem) - 9/2016
+
+[How Media Companies Can Use Steem to Improve Their Content Contribution Models](https://steemit.com/steem/@dob/how-media-companies-can-use-steem-to-improve-their-content-contribution-models) - 8/2016
+
+[Three Questions I'm Eager To See Answered In The Blockchain World](https://steemit.com/introduceyourself/@dob/hello-steemit-three-questions-i-m-eager-to-see-answered-in-the-blockchain-world) - 7/2016
 
 ## About
