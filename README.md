@@ -1,44 +1,8 @@
 # The DAppBench
 
-Code and ideas around decentralization, cryptography, and the blockchain from [@petkanics](http://twitter.com/petkanics) and [@ericxtang](http://twitter.com/ericxtang). 
-
-## Projects
-
-### AuctionHouse
-
-AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
-
-[AuctionHouse Web App](http://auctionhouse.dappbench.com)
-
-[Code](http://github.com/dob/auctionhouse)
-
-[More about AuctionHouse](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469#.jvaeggujz)
-
----
-
-### TAP
-
-TAP (Transaction Attestation Platform) is the Siteadvisor (or Norton Antivirus) of the Ethereum blockchain. It is a decentralized platform that users can use to attest to the trustworthiness of smart contract functions that other users will have to invoke in order to interact with DApps. Without TAP, when you sign a transaction within a DApp, you're opening up your entire Ethereum wallet to the application, and which could have major unintended consequences including loss of your assets. With TAP, you can rely on the community to provide you with more confidence and trust in what's about to happen when you sign that transaction. 
-
-TAP verifies smart contract code against what's on the blockchain, stores metadata and attestations on IPFS, and writes proof of attestation to the TAP smart contract on Ethereum. 
-
-[TAP Homepage](http://tap.dappbench.com)
-[Code](http://github.com/dob/tap)
-[More on why TAP needs to exist](https://medium.com/@petkanics/lets-talk-about-ethereum-transaction-transparency-a5a0d38ec1b5#.qql6qexjy)
-
----
-
-### Browser-SOLC
-
-Browser-SOLC is a utility that lets you compile solidity code from within the web browser. It is extracted from the great [Browser Solidity](https://github.com/ethereum/browser-solidity) project, and provides convenient access to compile code with different versions of the solidity compiler, giving you access to the ABI and bytecode.
-
-[Code](https://github.com/ericxtang/browser-solc)
-[Demo app](https://s3.amazonaws.com/browser-solc.dappbench.com/index.html)
-[Browser-SOLC Project Page](https://ericxtang.github.io/browser-solc/)
+Ideas and code around decentralization, cryptography, and the blockchain from [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). 
 
 ## Ideas
-
-Posts, thoughts, and comments about decentralization and blockchain technology.
 
 [Economics-in-a-box For Decentralized Protocols](https://medium.com/@petkanics/economics-in-a-box-for-decentralized-protocols-56fb6d52a464) - 12/2016
 
@@ -64,4 +28,63 @@ Posts, thoughts, and comments about decentralization and blockchain technology.
 
 [Three Questions I'm Eager To See Answered In The Blockchain World](https://steemit.com/introduceyourself/@dob/hello-steemit-three-questions-i-m-eager-to-see-answered-in-the-blockchain-world) - 7/2016
 
+---
+
+## Projects
+
+### AuctionHouse
+
+AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
+
+[AuctionHouse Web App](http://auctionhouse.dappbench.com)
+
+[Code](http://github.com/dob/auctionhouse)
+
+[More about AuctionHouse](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469#.jvaeggujz)
+
+---
+
+### TAP
+
+TAP (Transaction Attestation Platform) is the Siteadvisor (or Norton Antivirus) of the Ethereum blockchain. It is a decentralized platform that users can use to attest to the trustworthiness of smart contract functions that other users will have to invoke in order to interact with DApps. Without TAP, when you sign a transaction within a DApp, you're opening up your entire Ethereum wallet to the application, and which could have major unintended consequences including loss of your assets. With TAP, you can rely on the community to provide you with more confidence and trust in what's about to happen when you sign that transaction. 
+
+TAP verifies smart contract code against what's on the blockchain, stores metadata and attestations on IPFS, and writes proof of attestation to the TAP smart contract on Ethereum. 
+
+[TAP Homepage](http://tap.dappbench.com)
+
+[Code](http://github.com/dob/tap)
+
+[More on why TAP needs to exist](https://medium.com/@petkanics/lets-talk-about-ethereum-transaction-transparency-a5a0d38ec1b5#.qql6qexjy)
+
+---
+
+### Browser-SOLC
+
+Browser-SOLC is a utility that lets you compile solidity code from within the web browser. It is extracted from the great [Browser Solidity](https://github.com/ethereum/browser-solidity) project, and provides convenient access to compile code with different versions of the solidity compiler, giving you access to the ABI and bytecode.
+
+[Code](https://github.com/ericxtang/browser-solc)
+
+[Demo app](https://s3.amazonaws.com/browser-solc.dappbench.com/index.html)
+
+[Browser-SOLC Project Page](https://ericxtang.github.io/browser-solc/)
+
+
 ## About
+
+We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We have been interested in blockchain technology and cryptocurrency since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come ;)
+
+### Previous work
+
+We are software engineers and entrepreneurs in NYC, who have been writing code and building startups together since 2010. At [Wildcard](https://www.engadget.com/2015/08/11/wildcard-news-app/), we built a data system that could take any web page, extract and structure the underlying data, and render it in a beautiful native card on mobile, resulting in the Wildcard App being named one of Apple's Top Apps of 2015. Previously, at [Hyperpublic](https://techcrunch.com/2012/02/17/groupon-acquires-nyc-based-startup-hyperpublic/), we built a local data platform that could ingest and organize data on the world's 50,000,000 local businesses and points of interest from the open web. The business was acquired by Groupon in 2012.
+
+If you're interested in the blockchain world, don't be shy, and get in touch with us on:
+
+Twitter: [Doug](http://twitter.com/petkanics), [Eric](http://twitter.com/ericxtang)
+
+Medium: [Doug](http://medium.com/@petkanics), [Eric](http://medium.com/@ericxtang)
+
+Github: [Doug](http://github.com/dob), [Eric](http://github.com/@ericxtang)
+
+LinkedIn: [Doug](https://www.linkedin.com/in/dougpetkanics), [Eric](https://www.linkedin.com/in/ericxtang)
+
+
