@@ -6,7 +6,7 @@ Code and ideas around decentralization, cryptography, and the blockchain from [@
 
 ### AuctionHouse
 
-![AuctionHouse](https://cl.ly/313I0x2s2I3P)
+![AuctionHouse](https://d17oy1vhnax1f7.cloudfront.net/items/2h1S1v3p2z2t1b321h3q/Image%202016-12-20%20at%2010.52.07%20AM.png?v=3c598512 =400x)
 
 AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
 
@@ -18,7 +18,7 @@ AuctionHouse is an decentralized application built on Ethereum for auctioning no
 
 ### TAP
 
-![TAP](https://cl.ly/3q1S360A3C2F)
+![TAP](https://d17oy1vhnax1f7.cloudfront.net/items/16442a1b3V3I2Z3A3u2i/Image%202016-12-20%20at%2010.54.30%20AM.png?v=1bd2af15 =400x)
 
 TAP (Transaction Attestation Platform) is the Siteadvisor (or Norton Antivirus) of the Ethereum blockchain. It is a decentralized platform that users can use to attest to the trustworthiness of smart contract functions that other users will have to invoke in order to interact with DApps. Without TAP, when you sign a transaction within a DApp, you're opening up your entire Ethereum wallet to the application, and which could have major unintended consequences including loss of your assets. With TAP, you can rely on the community to provide you with more confidence and trust in what's about to happen when you sign that transaction. 
 
