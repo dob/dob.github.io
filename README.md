@@ -30,7 +30,7 @@
 
 ### AuctionHouse
 
-AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
+AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, or jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
 
 [AuctionHouse Web App](http://auctionhouse.dappbench.com)
 
