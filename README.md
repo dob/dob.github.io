@@ -64,6 +64,7 @@ Browser-SOLC is a utility that lets you compile solidity code from within the we
 
 [Browser-SOLC Project Page](https://ericxtang.github.io/browser-solc/)
 
+---
 
 ## About
 
@@ -79,7 +80,7 @@ Twitter: [Doug](http://twitter.com/petkanics), [Eric](http://twitter.com/ericxta
 
 Medium: [Doug](http://medium.com/@petkanics), [Eric](http://medium.com/@ericxtang)
 
-Github: [Doug](http://github.com/dob), [Eric](http://github.com/@ericxtang)
+Github: [Doug](http://github.com/dob), [Eric](http://github.com/ericxtang)
 
 LinkedIn: [Doug](https://www.linkedin.com/in/dougpetkanics), [Eric](https://www.linkedin.com/in/ericxtang)
 
