@@ -1,7 +1,3 @@
-# The DAppBench
-
-Ideas and code around decentralization, cryptography, and the blockchain from [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). 
-
 ## Ideas
 
 [Economics-in-a-box For Decentralized Protocols](https://medium.com/@petkanics/economics-in-a-box-for-decentralized-protocols-56fb6d52a464) - 12/2016
