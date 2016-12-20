@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# The DAppBench
 
-You can use the [editor on GitHub](https://github.com/dob/dob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Code and ideas around decentralization, cryptography, and the blockchain from [@petkanics](http://twitter.com/petkanics) and [@ericxtang](http://twitter.com/ericxtang). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### AuctionHouse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
 
-```markdown
-Syntax highlighted code block
+- [AuctionHouse Web App](http://auctionhouse.dappbench.com)
+- [Code](http://github.com/dob/auctionhouse)
+- [More about AuctionHouse](https://medium.com/@petkanics/introducing-auctionhouse-an-ethereum-dapp-for-auctioning-on-chain-goods-c91244bde469#.jvaeggujz)
 
-# Header 1
-## Header 2
-### Header 3
+### TAP
 
-- Bulleted
-- List
+### Browser-SOLC
 
-1. Numbered
-2. List
+## Ideas
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dob/dob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About
