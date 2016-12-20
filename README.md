@@ -30,7 +30,7 @@
 
 ### AuctionHouse
 
-AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain, items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, or jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
+AuctionHouse is an decentralized application built on Ethereum for auctioning non-fungible, on-chain items. Think of it like Ebay, but for unique on-blockchain items like tokens that represent domain names, tickets, or jobs in on-chain economies. This was our first attempt at an end-to-end DApp, including smart contracts on Ethereum, a web frontend, and transaction signer/wallet integrations.
 
 [AuctionHouse Web App](http://auctionhouse.dappbench.com)
 
@@ -68,7 +68,7 @@ Browser-SOLC is a utility that lets you compile solidity code from within the we
 
 ## About
 
-We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We have been interested in blockchain technology and cryptocurrency since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come ;)
+We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We have been interested in blockchain technology and cryptocurrency since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come.
 
 ### Previous work
 
