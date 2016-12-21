@@ -68,11 +68,7 @@ Browser-SOLC is a utility that lets you compile solidity code from within the we
 
 ## About
 
-We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We have been interested in blockchain technology and cryptocurrency since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come.
-
-### Previous work
-
-We are software engineers and entrepreneurs in NYC, who have been writing code and building startups together since 2010. At [Wildcard](https://www.engadget.com/2015/08/11/wildcard-news-app/), we built a data system that could take any web page, extract and structure the underlying data, and render it in a beautiful native card on mobile, resulting in the Wildcard App being named one of Apple's Top Apps of 2015. Previously, at [Hyperpublic](https://techcrunch.com/2012/02/17/groupon-acquires-nyc-based-startup-hyperpublic/), we built a local data platform that could ingest and organize data on the world's 50,000,000 local businesses and points of interest from the open web. The business was acquired by Groupon in 2012.
+We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We're software engineers and entrepreneurs in NYC, who have been working together for the past 6 years. Blockchain technology and cryptocurrency has been interesting to us since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come.
 
 If you're interested in the blockchain world, don't be shy, and get in touch with us on:
 
