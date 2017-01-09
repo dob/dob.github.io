@@ -1,5 +1,7 @@
 ## Ideas
 
+[Crossing the Crypto Gap](https://medium.com/@petkanics/crossing-the-crypto-gap-40aaa17ae730#.g2f7m5ooi) - 1/2017
+
 [Economics-in-a-box For Decentralized Protocols](https://medium.com/@petkanics/economics-in-a-box-for-decentralized-protocols-56fb6d52a464) - 12/2016
 
 [Let's Talk About Ethereum Transaction Transparency](https://medium.com/@petkanics/lets-talk-about-ethereum-transaction-transparency-a5a0d38ec1b5) - 12/2016
