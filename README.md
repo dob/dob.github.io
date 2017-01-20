@@ -1,5 +1,7 @@
 ## Ideas
 
+[The Token Powered Structural Rubix Cube](https://medium.com/@petkanics/the-token-powered-structural-rubix-cube-7f3ec42315e6#.a4tsvuycx) - 1/2017
+
 [Crossing the Crypto Gap](https://medium.com/@petkanics/crossing-the-crypto-gap-40aaa17ae730#.g2f7m5ooi) - 1/2017
 
 [Economics-in-a-box For Decentralized Protocols](https://medium.com/@petkanics/economics-in-a-box-for-decentralized-protocols-56fb6d52a464) - 12/2016
