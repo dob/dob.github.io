@@ -1,5 +1,7 @@
 ## Ideas
 
+[Introducing Livepeer — A Decentralized Live Video Broadcast Platform and Crypto Token Protocol](https://medium.com/@petkanics/introducing-livepeer-a-decentralized-live-video-broadcast-platform-and-crypto-token-protocol-7eb4b1de47ed#.9o8psj7cd) - 3/2017
+
 [The Token Powered Structural Rubix Cube](https://medium.com/@petkanics/the-token-powered-structural-rubix-cube-7f3ec42315e6#.a4tsvuycx) - 1/2017
 
 [Crossing the Crypto Gap](https://medium.com/@petkanics/crossing-the-crypto-gap-40aaa17ae730#.g2f7m5ooi) - 1/2017
@@ -31,6 +33,16 @@
 ---
 
 ## Projects
+
+### Livepeer
+
+Livepeer is a platform and protocol for decentralized live video broadcast on the internet. Live video on the blockchain. Any broadcaster or streamer could use Livepeer to ensure that their live video is encoded into all formats to reach all devices on all platforms, and distributed to any users who request it, in a decentralized, crypto-incentivized way.
+
+[Livepeer.org](https://livepeer.org)
+
+[Code](https://github.com/livepeer)
+
+[Project Overview](https://github.com/livepeer/wiki/wiki/Project-Overview)
 
 ### AuctionHouse
 
@@ -72,7 +84,7 @@ Browser-SOLC is a utility that lets you compile solidity code from within the we
 
 ## About
 
-We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We're software engineers and entrepreneurs in NYC, who have been working together for the past 6 years. Blockchain technology and cryptocurrency has been interesting to us since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited about the work we're doing on a bigger project to come.
+We are [Doug Petkanics](http://twitter.com/petkanics) and [Eric Tang](http://twitter.com/ericxtang). We're software engineers and entrepreneurs in NYC, who have been working together for the past 7 years. Blockchain technology and cryptocurrency has been interesting to us since 2012, but in mid 2016 the emergence of the decentralized development stack and crypto-token powered protocols really hooked us on this area. We've been having a great time learning, meeting folks, thinking about, and building decentralized projects over the past few months, and we're excited to be all in on trying to make decentralized live streaming technology possible via [Livepeer](https://livepeer.org).
 
 If you're interested in the blockchain world, don't be shy, and get in touch with us on:
 
