@@ -1,5 +1,9 @@
 ## Ideas
 
+[Locked Up Eth](https://medium.com/@petkanics/locked-up-eth-d0ebc2464e14) - 7/2017
+
+[The Livepeer Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md) - 4/2017
+
 [Introducing Livepeer — A Decentralized Live Video Broadcast Platform and Crypto Token Protocol](https://medium.com/@petkanics/introducing-livepeer-a-decentralized-live-video-broadcast-platform-and-crypto-token-protocol-7eb4b1de47ed#.9o8psj7cd) - 3/2017
 
 [The Token Powered Structural Rubix Cube](https://medium.com/@petkanics/the-token-powered-structural-rubix-cube-7f3ec42315e6#.a4tsvuycx) - 1/2017
@@ -41,6 +45,8 @@ Livepeer is a platform and protocol for decentralized live video broadcast on th
 [Livepeer.org](https://livepeer.org)
 
 [Code](https://github.com/livepeer)
+
+[Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)
 
 [Project Overview](https://github.com/livepeer/wiki/wiki/Project-Overview)
 
